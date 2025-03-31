@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🔭 I’m currently working on a School website
+🌱 I’m currently learning Computer science at SRH University of Applied Sciences
+👯 I’m looking to collaborate voluntarily on any project that enhances my skills
+🤔 I’m looking for help with full-stack development skills
+📫 How to reach me: emmamufunde99@gmail.com or +491742568718
+😄 Pronouns: He or Male
+
+
 <!--
 **Tashongedzwanashe/Tashongedzwanashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
